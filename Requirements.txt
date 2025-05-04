@@ -1,10 +1,12 @@
-## Requirements
-To execute the code in this project, you'll need the following Python packages. Install them using `pip` and the provided version numbers:
+## Prerequisites
+- Python 3.8+
+- Git
+- Kaggle account (to download `train.csv` and `test.csv`)
 
-```plaintext
-numpy==1.18.2
-pandas==1.0.3
-scikit-learn==0.22.2
-matplotlib==3.2.2
-seaborn==0.10.1
+## Setup
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Souptik96/Machine-Learning-Predict-Calorie-Expenditure.git
+   cd Machine-Learning-Predict-Calorie-Expenditure
 
+## pip install -r requirements.txt
